@@ -1,10 +1,5 @@
-# 🚀 JT DesarrolloWeb
+# 🚀 JTDesarrolloWeb
 **Transformando Ideas en Soluciones Digitales**
-
-[🌐 Sitio Web](#) | [📧 Contacto](#contacto) | [💼 Portafolio](#servicios)
-
-</div>
-
 ---
 
 ## 📖 Sobre Nosotros
@@ -192,11 +187,9 @@ Estamos disponibles para ti después del lanzamiento.
 ¿Tienes un proyecto en mente? ¡Hablemos!
 
 - 📧 **Email**: contacto@jtdesarrolloweb.com
-- 📱 **Teléfono**: +51 XXX XXX XXX
-- 🌐 **Website**: www.jtdesarrolloweb.com
-- 💼 **LinkedIn**: /company/jtdesarrolloweb
+- 📱 **whatsapp**: +51 919 527 812
+- 🌐 **Website**: jtdesarrolloweb.com
 - 📸 **Instagram**: @jtdesarrolloweb
-- 🐦 **Twitter**: @jtdesarrolloweb
 
 ### 📍 Ubicación
 Piura, Perú 🇵🇪
@@ -240,13 +233,10 @@ Los proyectos desarrollados permanecen bajo propiedad del cliente una vez comple
 > 
 > **— Dueño de Tienda Online**
 
----
-
-<div align="center">
 
 ### ¿Listo para comenzar tu proyecto?
 
-[🚀 Solicitar Cotización](#contacto) | [💼 Ver Portafolio](#)
+[🚀 Solicitar Cotización](https://jtdesarrolloweb.com/contacto.aps/) | [💼 Ver Portafolio]()
 
 **JT Desarrollo Web** - *Creando el futuro digital*
 
