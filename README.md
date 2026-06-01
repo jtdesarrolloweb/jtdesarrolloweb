@@ -72,7 +72,7 @@
         </ul>
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=jtdesarrolloweb&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtdesarrolloweb&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
