@@ -10,7 +10,7 @@
 
   <p>
     <a href="https://jtdesarrolloweb.com"><img src="https://img.shields.io/badge/Website-jtdesarrolloweb.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-    <a href="mailto:contacto@jtdesarrolloweb.com"><img src="https://img.shields.io/badge/Email-contacto@jtdesarrolloweb.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:jtdesarrolloweb@gmail.com"><img src="https://img.shields.io/badge/Email-jtdesarrolloweb@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://wa.me/51919527812"><img src="https://img.shields.io/badge/WhatsApp-+51%20919%20527%20812-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
     <a href="https://instagram.com/jtdesarrolloweb"><img src="https://img.shields.io/badge/Instagram-@jtdesarrolloweb-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
